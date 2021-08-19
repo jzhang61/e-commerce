@@ -1,0 +1,1 @@
+the full stack online store which allows users to search, sell, add to cart and checkout items using React and Apollo on the frontend and GraphQL API with Node.js on the backend
