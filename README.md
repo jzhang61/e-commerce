@@ -1,1 +1,1 @@
-the full stack online store which allows users to search, sell, add to cart and checkout items using React and Apollo on the frontend and GraphQL API with Node.js on the backend
+This project is for practice purpose only, covered everything from authentication and sending email to uploading photos and caching data. The entire front-end is built in modern React.js and GraphQL.
